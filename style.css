@@ -284,7 +284,7 @@ section#skills{
 .java
 {
     background-color: #e34f26;
-    width: 75%;
+    width: 80%;
     /*opacity: 0.8;*/
 }
 .python
@@ -292,7 +292,7 @@ section#skills{
     background-color: #00a4e4;
     width:70%;
 }
-.r
+.TDD
 {
     background-color: darkseagreen;
     width: 60%;
@@ -314,15 +314,15 @@ section#skills{
     width: 75%;
 }
 
-.php
+.aws
 {
     background-color: #6f5499;
-    width: 80%;
+    width: 50%;
 }
-.html
+.spring
 {
     background-color: #00758f;
-    width: 90%;
+    width: 80%;
 }
 .django
 {
